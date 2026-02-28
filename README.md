@@ -123,29 +123,24 @@ Built a modular backend system with independently deployable services for scalab
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/parasbramhankar/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-       height="35" style="margin: 0 18px; vertical-align: middle;" />
+<a href="https://www.linkedin.com/in/parasbramhankar/" target="_blank" style="margin: 0 55px;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://github.com/parasbramhankar" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-       height="35" style="margin: 0 18px; vertical-align: middle;" />
+<a href="https://github.com/parasbramhankar" target="_blank" style="margin: 0 55px;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
 </a>
 
-<a href="https://leetcode.com/u/Paras_02/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/leetcode-1.svg"
-       height="35" style="margin: 0 18px; vertical-align: middle;" />
+<a href="https://leetcode.com/u/Paras_02/" target="_blank" style="margin: 0 55px;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 
-<a href="mailto:parasbramhankar.in@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
-       height="35" style="margin: 0 18px; vertical-align: middle;" />
+<a href="mailto:parasbramhankar.in@gmail.com" style="margin: 0 55px;">
+<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" height="30" width="40" />
 </a>
 
-<a href="https://x.com/bramhankarparas" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"
-       height="35" style="margin: 0 18px; vertical-align: middle;" />
+<a href="https://x.com/bramhankarparas" target="_blank" style="margin: 0 55px;">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 
 </p>
