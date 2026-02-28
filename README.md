@@ -136,9 +136,9 @@ Built a modular backend system with independently deployable services for scalab
 </a>
 
 <a href="mailto:parasbramhankar.in@gmail.com" style="margin: 0 155px;">
-<img src="https://drive.google.com/file/d/1GnvxkYNINZoO9NknDo7KM2Ls82XI7rhb/view?usp=sharing" height="30" width="40" />
+<img src="https://github.com/user-attachments/assets/6cacb04b-436e-49ea-91ea-5445ded6d952" height="30" width="40" />
 </a>
-<!-- https://cdn-icons-png.flaticon.com/512/561/561127.png -->
+
 <a href="https://x.com/bramhankarparas" target="_blank" style="margin: 0 155px;">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
