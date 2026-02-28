@@ -113,45 +113,36 @@ Built a modular backend system with independently deployable services for scalab
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parasbramhankar&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parasbramhankar&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=parasbramhankar&layout=compact&theme=tokyonight" />
 </p>
 ---
 
 ## 🌐 Connect With Me
 
+<p align="center">
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/parasbramhankar/" target="_blank">
+<a href="https://www.linkedin.com/in/parasbramhankar/" target="_blank" style="margin: 0 15px;">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://github.com/parasbramhankar" target="_blank">
+<a href="https://github.com/parasbramhankar" target="_blank" style="margin: 0 15px;">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
 </a>
 
-<a href="https://leetcode.com/u/Paras_02/" target="_blank">
+<a href="https://leetcode.com/u/Paras_02/" target="_blank" style="margin: 0 15px;">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 
-<a href="mailto:parasbramhankar.in@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40" />
+<a href="mailto:parasbramhankar.in@gmail.com" style="margin: 0 15px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40" />
 </a>
 
-<a href="https://x.com/bramhankarparas" target="_blank">
+<a href="https://x.com/bramhankarparas" target="_blank" style="margin: 0 15px;">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 
-
 </p>
-
 ---
 
 ### 💼 Open to Opportunities
