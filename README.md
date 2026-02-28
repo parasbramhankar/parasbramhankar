@@ -135,7 +135,7 @@ Built a modular backend system with independently deployable services for scalab
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
 </a>
 
-<a href="mailto:parasbramhankar.in@gmail.com" style="margin: 0 155px;">
+<a href="mailto:parasbramhankar.in@gmail.com" style="margin: 0 1550px;">
 <img src="https://github.com/user-attachments/assets/6cacb04b-436e-49ea-91ea-5445ded6d952" height="30" width="40"/>
 </a>
 
