@@ -25,20 +25,53 @@ Currently strengthening my expertise in:
 
 ---
 
-## 🚀 Backend Projects
+## 🚀 Backend Engineering Projects  
 
-🔹 **Quiz Application**
-- Authentication & Role-Based Authorization
-- RESTful APIs using Spring Boot
-- JPA & Hibernate for database handling
-- CRUD operations & optimized queries
+### 🔹 Quiz Platform – Microservices Architecture  
 
-🔹 **E-Commerce Application**
-- Secure login & JWT authentication
-- Role-based access control
-- Product & Order management APIs
-- Efficient relational database design
+Designed and implemented a scalable quiz platform using **Spring Boot & Spring Cloud**, following the **database-per-service** pattern.
 
+**Architecture & Design**
+- API Gateway using Spring Cloud Gateway  
+- Service-to-service communication via OpenFeign  
+- Independent services with isolated databases (MySQL/PostgreSQL)  
+- Centralized configuration management  
+- Layered architecture with DTO pattern & standardized API response model  
+
+**Security**
+- JWT-based authentication using Spring Security  
+- Role-Based Access Control (Admin/User)  
+- Stateless session handling across services  
+
+**Engineering Practices**
+- Global exception handling strategy  
+- Input validation & proper HTTP status mapping  
+- Swagger-based API documentation  
+- Modular and loosely coupled service structure  
+
+---
+
+### 🔹 E-Commerce System – Distributed Service Design  
+
+Built a modular backend system with independently deployable services for scalable commerce operations.
+
+**Service Design**
+- User Service  
+- Product Service  
+- Order Service  
+- API Gateway for centralized routing  
+
+**Security & Access Control**
+- JWT-based authentication & authorization  
+- Role-level endpoint protection  
+
+**Backend Engineering**
+- RESTful APIs following standard conventions  
+- Optimized JPA queries & relational mapping  
+- Structured request validation & error handling  
+- Clean layered architecture for maintainability  
+- Maven-based build lifecycle management  
+- Version control using Git  
 ---
 
 ## 🛠️ Technical Skills
@@ -59,18 +92,24 @@ Currently strengthening my expertise in:
 `REST API Development` `Swagger` `Postman`
 
 ### ⚙️ Build & Dev Tools
-`Maven` `Apache Maven` `Git` `IntelliJ IDEA`
+`Apache Maven` `Git` `IntelliJ IDEA`
 
 ### 🖥️ Frontend Basics
 `HTML` `CSS` `JavaScript`
 
 ---
 
-## 🏆 Achievements
+## 🎓 Education & Academic Highlights
 
-🥈 Secured **2nd Rank in MCA** (CGPA: 9.43)  
-🎓 Awarded **DST-Inspire Scholarship** by Ministry of Science & Technology  
+- 🎓 Master of Computer Applications (2023–2025)  
+  Shri Ramdeobaba College of Engineering & Management  
+  **CGPA: 9.43**
 
+- 🥇 Gold Medal in Mathematics
+
+- 🏆 DST-Inspire Scholarship  
+  Awarded by Ministry of Science & Technology, Government of India
+ 
 ---
 
 ## 📊 GitHub Stats
@@ -87,6 +126,11 @@ Currently strengthening my expertise in:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parasbramhankar&layout=compact&theme=tokyonight" />
 </p>
 
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parasbramhankar&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=parasbramhankar&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 🌐 Connect With Me
