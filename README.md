@@ -43,27 +43,94 @@ Currently strengthening my expertise in:
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming & Core Concepts
-`Java` `OOP` `DBMS` `Operating Systems` `JSON`
+<p align="left">
 
-### 🌱 Backend Frameworks
-`Spring` `Spring Boot` `Spring Data JPA`  
-`Hibernate` `JPA` `JDBC`  
-`Spring Security` `JWT` `OAuth`  
-`Microservices`
+<!-- Java -->
+<a href="https://www.java.com" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
 
-### 🗄️ Databases
-`MySQL` `PostgreSQL`
+<!-- Spring -->
+<a href="https://spring.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+</a>
 
-### 🔗 API & Tools
-`REST API Development` `Swagger` `Postman`
+<!-- Hibernate -->
+<a href="https://hibernate.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
+</a>
 
-### ⚙️ Build & Dev Tools
-`Maven` `Apache Maven` `Git` `IntelliJ IDEA`
+<!-- JDBC (Java icon used) -->
+<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="jdbc" width="40" height="40"/>
+</a>
 
-### 🖥️ Frontend Basics
-`HTML` `CSS` `JavaScript`
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
 
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<!-- Maven -->
+<a href="https://maven.apache.org/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/apache-maven-1.svg" alt="maven" width="40" height="40"/>
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<!-- Redis -->
+<a href="https://redis.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+</a>
+
+<!-- Kafka -->
+<a href="https://kafka.apache.org/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="kafka" width="40" height="40"/>
+</a>
+
+<!-- Swagger -->
+<a href="https://swagger.io/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="swagger" width="40" height="40"/>
+</a>
+
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
+<!-- IntelliJ -->
+<a href="https://www.jetbrains.com/idea/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+</a>
+
+<!-- HTML -->
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+</a>
+
+<!-- CSS -->
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+</a>
+
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+</p>
 ---
 
 ## 🏆 Achievements
