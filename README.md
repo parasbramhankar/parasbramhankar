@@ -116,8 +116,10 @@ Built a modular backend system with independently deployable services for scalab
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parasbramhankar&theme=tokyonight" />
 </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=parasbramhankar&theme=tokyonight" /> </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=parasbramhankar&layout=compact&theme=tokyonight" />
+</p>
 ---
 
 ## 🌐 Connect With Me
