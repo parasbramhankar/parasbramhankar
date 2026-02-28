@@ -126,6 +126,7 @@ Built a modular backend system with independently deployable services for scalab
 
 ## 🌐 Connect With Me
 
+
 <p align="left">
 
 <a href="https://www.linkedin.com/in/parasbramhankar/" target="_blank">
@@ -141,12 +142,13 @@ Built a modular backend system with independently deployable services for scalab
 </a>
 
 <a href="mailto:parasbramhankar.in@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="40" />
 </a>
 
 <a href="https://x.com/bramhankarparas" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
+
 
 </p>
 
