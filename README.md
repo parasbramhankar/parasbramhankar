@@ -51,29 +51,6 @@ Designed and implemented a scalable quiz platform using **Spring Boot & Spring C
 
 ---
 
-### 🔹 E-Commerce System – Distributed Service Design  
-
-Built a modular backend system with independently deployable services for scalable commerce operations.
-
-**Service Design**
-- User Service  
-- Product Service  
-- Order Service  
-- API Gateway for centralized routing  
-
-**Security & Access Control**
-- JWT-based authentication & authorization  
-- Role-level endpoint protection  
-
-**Backend Engineering**
-- RESTful APIs following standard conventions  
-- Optimized JPA queries & relational mapping  
-- Structured request validation & error handling  
-- Clean layered architecture for maintainability  
-- Maven-based build lifecycle management  
-- Version control using Git  
----
-
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Core Concepts
@@ -95,7 +72,7 @@ Built a modular backend system with independently deployable services for scalab
 `Apache Maven` `Git` `IntelliJ IDEA`
 
 ### 🖥️ Frontend Basics
-`HTML` `CSS` `JavaScript`
+`HTML` `CSS` `JavaScript` `React` 
 
 ---
 
